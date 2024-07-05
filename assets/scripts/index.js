@@ -122,4 +122,4 @@ spanHi.classList.add("new-class")
 spanHi.classList.remove("hi1")
 // spanHi.classList.toggle("hi1")
 spanHi.style.color = "red"
-spanHi.style.backgroundColor = "pink"
+spanHi.style.backgroundColor = "pink" 
