@@ -1,0 +1,76 @@
+1. Planning 
+- Define your goal, what should the website or web app do? 
+
+Designer
+- Design the way it should look, the color, the font and even the functionality
+
+Hosting and domain 
+ - naka host sa internet
+
+local development mean, only in your pc 
+
+siteground 
+bluehost
+hostinger
+
+
+domain 
+ - website nagawa mo nilalagyan nya ng pangalan 
+
+.io
+.xyz
+.to 
+common use is .com
+
+Builder 
+mutilple build website 
+- MERN stack
+- 
+
+HTML CSS JAVASCRIPT di mawawala 
+
+
+HTML 
+Create the structure 
+ - controls the layout of the content 
+ - provides structure for the web page design 
+ - the fundamentals block of any web page 
+
+CSS
+stylize the website 
+- applies stlyle to the web page elements 
+- targets various screen size to make web pages responsive
+- primarily handles the look and feel of a web page 
+
+JS
+Increase ineractivity
+- adds ineractivity to a web page 
+- handles complex functions and features 
+- programmatic code which enhances fucntionality 
+
+GIT
+- version control system
+
+GITHUB
+- hosting for projects 
+
+Google is forever a developer's best friend
+
+
+Why index.html
+ - index.html serve as your homepage
+ - . is t he separator 
+ - html is the suffix 
+
+Opening tag and closing tag 
+ - if you want to create an element
+
+
+
+
+
+
+
+
+Arash Law
+
